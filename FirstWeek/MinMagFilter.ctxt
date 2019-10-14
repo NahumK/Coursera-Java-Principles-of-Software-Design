@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MinMagFilter
+comment1.params=min\ name
+comment1.target=MinMagFilter(double,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=qe
+comment3.target=boolean\ satisfies(QuakeEntry)
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PhraseFilter
+comment1.params=where\ phrase\ filterName
+comment1.target=PhraseFilter(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=qe
+comment3.target=boolean\ satisfies(QuakeEntry)
+numComments=4
